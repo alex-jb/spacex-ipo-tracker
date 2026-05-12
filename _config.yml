@@ -1,0 +1,9 @@
+title: SpaceX-IPO-Tracker
+description: >-
+  Daily AI-managed stock research on SpaceX IPO beneficiaries.
+  Multi-agent LLM Bull/Bear/Judge + 9 ML technical signals.
+  Publicly auditable from 2026-05-12 through SpaceX IPO settlement.
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
